@@ -1,1 +1,9 @@
 theme: jekyll-theme-slate
+
+# Site settings
+title: Samuel Gil
+subtitle: Machine Learning and Artificial Intelligence
+email: samuxiii@gmx.com
+description: ""
+baseurl: ""
+url: "https://samuxiii.github.io"
