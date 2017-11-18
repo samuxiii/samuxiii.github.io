@@ -1,0 +1,7 @@
+footer .list-inline {
+    margin: 0;
+    padding: 0;
+}
+footer ul li {
+    display: inline-block;
+}
