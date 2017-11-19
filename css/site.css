@@ -2,6 +2,23 @@ footer .list-inline {
     margin: 0;
     padding: 0;
 }
+
 footer ul li {
     display: inline-block;
+}
+
+.fa-circle{
+    color:gray;
+}
+
+.fa-linkedin:hover, .fa-github:hover, .copyright{
+    color:white;
+}
+
+.fa-linkedin, .fa-github{
+    color:black;
+}
+
+ul.list-inline{
+    padding-top: 2%;
 }
