@@ -1,4 +1,4 @@
-> “I’m software engineer who is interested in the machine learning and artificial intelligence field. Kaggle competitions and studying by myself are my amusements :-)”
+> “I’m software engineer who is interested in the field of machine learning and artificial intelligence. Kaggle competitions and studying by myself are my amusements :-)”
 
 ## __Projects__
 * [Simpson Characters Image Classifier](https://github.com/samuxiii/notebooks/blob/master/simpsons/Simpsons.ipynb)
