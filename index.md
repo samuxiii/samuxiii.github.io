@@ -29,4 +29,4 @@
 ### __Other__
 * [Data visualization: holiday crimes in Michigan (2015)](https://github.com/samuxiii/notebooks/blob/master/crimes/Holiday%20Crimes.ipynb)
 * [Simpson Characters Image Classifier](https://github.com/samuxiii/notebooks/blob/master/simpsons/Simpsons.ipynb)
-
+* [Ethereum Stock Market](https://github.com/samuxiii/notebooks/blob/master/stock/Ethereum%20Stock.ipynb)
