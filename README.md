@@ -1,6 +1,6 @@
-Personal Web Page
+## Personal Web Page
 
-## Configuration
+### Configuration
 
 Read how to [configure in github](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/).
 
