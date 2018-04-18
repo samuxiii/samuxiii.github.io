@@ -27,5 +27,6 @@
 * [Titanic Survival Classifier](https://github.com/samuxiii/notebooks/blob/master/titanic/Titanic%20Survival%20Kaggle.ipynb)
 
 ## __Other Projects__
+* [Data visualization: holiday crimes in Michigan (2015)](https://github.com/samuxiii/notebooks/blob/master/crimes/Holiday%20Crimes.ipynb)
 * [Simpson Characters Image Classifier](https://github.com/samuxiii/notebooks/blob/master/simpsons/Simpsons.ipynb)
 
