@@ -2,7 +2,7 @@
 
 ### __Personal Projects__
 * [Ethereum Stock Market](https://github.com/samuxiii/notebooks/blob/master/stock/Ethereum%20Stock.ipynb)
-* [Simpson Characters Image Classifier](https://github.com/samuxiii/notebooks/blob/master/simpsons/Simpsons.ipynb)
+* Simpson Characters Image Classifier[(Tensorflow)](https://github.com/samuxiii/notebooks/blob/master/simpsons/Simpsons.ipynb)[(Pytorch)](https://github.com/samuxiii/notebooks/blob/master/simpsons/Simpsons-PyTorch.ipynb)
 * [Data visualization: holiday crimes in Michigan (2015)](https://github.com/samuxiii/notebooks/blob/master/crimes/Holiday%20Crimes.ipynb)
 
 ### __Deep Learning Udacity Nanodegree__
