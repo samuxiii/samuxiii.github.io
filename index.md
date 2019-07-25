@@ -26,9 +26,7 @@
 
     Generative Adversarial Networks (GAN) to generate new images of faces.
 
-<!--
 ### __Kaggle Competitions__
 
 * [House Prices Regressor](https://github.com/samuxiii/notebooks/blob/master/houses/House%20Prices%20Clean.ipynb)
 * [Titanic Survival Classifier](https://github.com/samuxiii/notebooks/blob/master/titanic/Titanic%20Survival%20Kaggle.ipynb)
--->
