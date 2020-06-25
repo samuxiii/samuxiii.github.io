@@ -1,11 +1,12 @@
 > “I’m software engineer who is interested in the field of machine learning and artificial intelligence. Personal commitments: lifelong learning, self-taught student and contributions to open source community.”
 
-### __Personal Projects__
+### __Personal Notebook Projects__
 * [Ethereum Stock Market](https://github.com/samuxiii/notebooks/blob/master/stock/Ethereum%20Stock.ipynb)
 * Simpson Characters Image Classifier [\[Tensorflow\]](https://github.com/samuxiii/notebooks/blob/master/simpsons/Simpsons.ipynb)[[Pytorch]](https://github.com/samuxiii/notebooks/blob/master/simpsons/Simpsons-PyTorch.ipynb)
-* Data visualization: [Holiday Crimes in Michigan (2015)](https://github.com/samuxiii/notebooks/blob/master/crimes/Holiday%20Crimes.ipynb)
+* Data visualization: [Holiday Crimes in Michigan](https://github.com/samuxiii/notebooks/blob/master/crimes/Holiday%20Crimes.ipynb)
 
-### __Deep Learning Udacity Nanodegree__
+### __Educational Projects__
+#### __Deep Learning Udacity Nanodegree__
 * [Neural Network from Scratch](https://github.com/samuxiii/dlf/blob/master/p1/Your_first_neural_network.ipynb)
 
     Neural network to predict daily bike rental ridership using only numpy.
@@ -26,7 +27,7 @@
 
     Generative Adversarial Networks (GAN) to generate new images of faces.
 
-### __Kaggle Competitions__
+#### __Kaggle Competitions__
 
 * [House Prices Regressor](https://github.com/samuxiii/notebooks/blob/master/houses/House%20Prices%20Clean.ipynb)
 * [Titanic Survival Classifier](https://github.com/samuxiii/notebooks/blob/master/titanic/Titanic%20Survival%20Kaggle.ipynb)
